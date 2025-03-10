@@ -1,7 +1,7 @@
 ## 차선인식 프로젝트 시연영상
 [수정 전 동영상][링크](https://drive.google.com/file/d/1MdOXBKet_ULtAm5qHkZOsc7WRfDcO9BY/view?usp=drive_link)
 
-[수정 후 동영상][링크]()
+[수정 후 동영상][링크](https://drive.google.com/file/d/1PSVOEENlLh1I3kowVFXptJD6pj2GCnfm/view?usp=drive_link)
 ## 📊 프로젝트 개요
 - **Bird-eye View 변환** (차선 영역을 더 잘 보이도록 투영 변환 적용)
 - **Sobel Edge Detection 활용** (차선 경계를 강조)
